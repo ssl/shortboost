@@ -55,7 +55,7 @@ If you find any character missing or have any improvements to suggest, please fe
 | ㎭         | U+33AE  | rad            |   ❌     |
 | ㎰         | U+33B1  | ps             |   ✅ $50     |
 | ㎱         | U+33B2  | ns             |  ❌      |
-| ㎳         | U+33B4  | ms             |   ✅     |
+| ㎳         | U+33B4  | ms             |   ✅ $30     |
 | ㎴         | U+33B5  | pv             |   ❌     |
 | ㎵         | U+33B6  | nv             |   ❌     |
 | ㎷,㎹         | U+33B8,A  | mv             |  ✅ $250      |
