@@ -118,11 +118,11 @@ If you find any character missing or have any improvements to suggest, please fe
 | ⅱ         | U+2171  | ii             |     ❌   |
 | ⅲ         | U+2172  | iii            |    ❌    |
 | ⅳ         | U+2173  | iv             |   ❌     |
-| Ⅺ         | U+216A  | xi             |   ❌     |
-| Ⅻ         | U+216B  | xii            |  ❌      |
-| Ⅵ         | U+2165  | vi             | ➖ $300       |
-| Ⅶ         | U+2166  | vii            |   ❌     |
-| Ⅷ         | U+2167  | viii           |   ❌     |
+| Ⅺ, ⅺ         | U+216A,7A  | xi             |   ❌     |
+| Ⅻ, ⅻ         | U+216B,7B  | xii            |  ❌      |
+| Ⅵ, ⅵ         | U+2165,75  | vi             | ➖ $300       |
+| Ⅶ, ⅶ         | U+2166,76  | vii            |   ❌     |
+| Ⅷ, ⅷ         | U+2167,77  | viii           |   ❌     |
 | Ǌ, ǋ, ǌ   | U+01CA,B,C  | nj             |    ❌    |
 | Ǳ, ǲ, ǳ   | U+01F1,2,3  | dz             |   ➖ $35     |
 | Ǉ, ǈ      | U+01C7,8  | lj             |  ❌      |
