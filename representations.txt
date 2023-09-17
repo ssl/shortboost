@@ -50,11 +50,9 @@ pw
 nw
 mw
 kw
-am
 bq
 cc
 cd
-co
 db
 gy
 ha
