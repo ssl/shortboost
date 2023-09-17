@@ -14,10 +14,8 @@ ms
 mv
 pw
 mw
-am
 cc
 cd
-co
 gy
 in
 ph
