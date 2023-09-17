@@ -64,11 +64,9 @@ If you find any character missing or have any improvements to suggest, please fe
 | ㎻         | U+33BC  | nw             |  ❌      |
 | ㎽, ㎿         | U+33BE,C0  | mw             |   ✅ $70     |
 | ㎾         | U+33BF  | kw             |   ❌     |
-| ㏂         | U+33C3  | am             |   ✅ $25    |
 | ㏃         | U+33C4  | bq             |  ❌      |
 | ㏄         | U+33C5  | cc             |   ✅ $3    |
 | ㏅         | U+33C6  | cd             |   ✅ $50     |
-| ㏇         | U+33C8  | co             |  ✅ $3      |
 | ㏈         | U+33C9  | db             |   ❌     |
 | ㏉         | U+33CA  | gy             |   ✅ $30     |
 | ㏊         | U+33CB  | ha             |  ❌      |
