@@ -171,4 +171,4 @@ If you find any character missing or have any improvements to suggest, please fe
 - ➖ = Buyable with restrictions
 - ❌ = Cant buy for TLD, only usable in domain name
 
-Is buyable TLD price sources: [https://tld-list.com/](TLD-LIST), [https://domcomp.com/](Domcomp)
+Is buyable TLD price sources: [tld-list.com](https://tld-list.com/), [domcomp.com](https://domcomp.com/)
