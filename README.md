@@ -12,7 +12,7 @@ If you find any character missing or have any improvements to suggest, please fe
 
 | Character | Unicode | Representation | Is buyable TLD |
 |-----------|---------|----------------|--------|
- | ĳ | U+0133 | ij | ❌ | 
+ | Ĳ, ĳ | U+0132, U+0133 | ij | ❌ | 
  | ㍴ | U+3374 | bar | ✅ $3 | 
  | ㍵ | U+3375 | ov | ❌ | 
  | ㎁ | U+3381 | na | ✅ $4500 | 
@@ -58,7 +58,7 @@ If you find any character missing or have any improvements to suggest, please fe
  | ㎳ | U+33B3 | ms | ✅ $30 | 
  | ㎴ | U+33B4 | pv | ❌ | 
  | ㎵ | U+33B5 | nv | ❌ | 
- | ㎷,㎹ | U+33B7, U+33B9 | mv | ✅ $250 | 
+ | ㎷, ㎹, 🅋 | U+33B7, U+33B9, U+1F14B | mv | ✅ $250 | 
  | ㎸ | U+33B8 | kv | ❌ | 
  | ㎺ | U+33BA | pw | ✅ $1 | 
  | ㎻ | U+33BB | nw | ❌ | 
@@ -66,7 +66,7 @@ If you find any character missing or have any improvements to suggest, please fe
  | ㎾ | U+33BE | kw | ❌ | 
  | ㏃ | U+33C3 | bq | ❌ | 
  | ㏄ | U+33C4 | cc | ✅ $3 | 
- | ㏅ | U+33C5 | cd | ✅ $50 | 
+ | ㏅, 🄭 | U+33C5, U+1F12D | cd | ✅ $50 | 
  | ㏈ | U+33C8 | db | ❌ | 
  | ㏉ | U+33C9 | gy | ✅ $30 | 
  | ㏊ | U+33CA | ha | ❌ | 
@@ -112,10 +112,10 @@ If you find any character missing or have any improvements to suggest, please fe
  | ㍱ | U+3371 | hpa | ❌ | 
  | ㍲ | U+3372 | da | ❌ | 
  | ㉐ | U+3250 | pte | ❌ | 
- | ⅸ | U+2178 | ix | ❌ | 
- | ⅱ | U+2171 | ii | ❌ | 
- | ⅲ | U+2172 | iii | ❌ | 
- | ⅳ | U+2173 | iv | ❌ | 
+ | Ⅸ, ⅸ | U+2168, U+2178 | ix | ❌ | 
+ | Ⅱ, ⅱ | U+2161, U+2171 | ii | ❌ | 
+ | Ⅲ, ⅲ | U+2162, U+2172 | iii | ❌ | 
+ | Ⅳ, ⅳ | U+2163, U+2173 | iv | ❌ | 
  | Ⅺ, ⅺ | U+216A, U+217A | xi | ❌ | 
  | Ⅻ, ⅻ | U+216B, U+217B | xii | ❌ | 
  | Ⅵ, ⅵ | U+2165, U+2175 | vi | ➖ $300 | 
@@ -123,7 +123,7 @@ If you find any character missing or have any improvements to suggest, please fe
  | Ⅷ, ⅷ | U+2167, U+2177 | viii | ❌ | 
  | Ǌ, ǋ, ǌ | U+01CA, U+01CB, U+01CC | nj | ❌ | 
  | Ǳ, ǲ, ǳ | U+01F1, U+01F2, U+01F3 | dz | ➖ $35 | 
- | Ǉ, ǈ | U+01C7, U+01C8 | lj | ❌ | 
+ | Ǉ, ǈ, ǉ | U+01C7, U+01C8, U+01C9 | lj | ❌ | 
  | ⑩ | U+2469 | 10 | ❌ | 
  | ⑪ | U+246A | 11 | ❌ | 
  | ⑫ | U+246B | 12 | ❌ | 
@@ -165,6 +165,18 @@ If you find any character missing or have any improvements to suggest, please fe
  | ㊽ | U+32BD | 48 | ❌ | 
  | ㊾ | U+32BE | 49 | ❌ | 
  | ㊿ | U+32BF | 50 | ❌ | 
+ | ㍳ | U+3373 | au | ➖ | 
+ | ℻ | U+213B | fax | ❌ | 
+ | 🄮 | U+1F12E | wz | ❌ | 
+ | 🅊 | U+1F14A | hv | ❌ | 
+ | 🅌 | U+1F14C | sd | ➖ | 
+ | 🅍 | U+1F14D | ss | ➖ | 
+ | 🅎 | U+1F14E | ppv | ❌ | 
+ | 🅏 | U+1F14F | wc | ❌ | 
+ | 🅪 | U+1F16A | mc | ➖ | 
+ | 🅫 | U+1F16B | md | ✅ $50 | 
+ | 🅬 | U+1F16C | mr | ➖ | 
+ | 🆐 | U+1F190 | dj | ➖ | 
 
 
 - ✅ = Buyable
